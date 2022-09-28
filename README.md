@@ -4,6 +4,8 @@ This is the code for the "SSR-TA: Sequence to Sequence based expert recurrent re
 
 pygcn https://github.com/tkipf/pygcn was used to implement the baseline DeepRouting.
 
+The baseline BART is implemented with transformers.BartForSequenceClassification https://github.com/huggingface/transformers.
+
 Pre-request
 
 > linux 16.04
